@@ -14,4 +14,5 @@ delete all completed tasks: /tasks/cleardone
 
 ALL these were tested on the FastAPI Swagger UI
 
-**remember to fastapi dev todo-api (i think thats how it works i havent tried)
+**start with todo-api
+if that doesnt work, try python -m resolution_week3_bacasss.main (worked for me in a test folder)
