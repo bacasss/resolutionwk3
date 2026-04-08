@@ -16,3 +16,6 @@ ALL these were tested on the FastAPI Swagger UI
 
 **start with todo-api
 if that doesnt work, try python -m resolution_week3_bacasss.main (worked for me in a test folder)
+
+FastAPI Swagger UI showing featuresssss:
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/3667bfd7-9ccb-4692-ba4a-be8da9068c2f" />
