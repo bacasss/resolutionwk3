@@ -2,6 +2,7 @@ A simple todo list API utilising FastAPI that can utlisises GET, POST, PATCH and
 each task has an ID, a name, a completion status and a priority(set to medium by default)
 
 Features:
+
 list tasks: /tasks
 
 add a task: /tasks via POST
