@@ -28,3 +28,6 @@ if that doesnt work, try python -m resolution_week3_bacasss.main (worked for me 
 
 FastAPI Swagger UI showing featuresssss:
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/3667bfd7-9ccb-4692-ba4a-be8da9068c2f" />
+
+i know this isnt how youre supposed to view it but i dont know why i screenshotted this and it happened to be the best one:
+<img width="1102" height="652" alt="Screenshot 2026-04-08 213743" src="https://github.com/user-attachments/assets/f3248372-a043-4e4b-ba02-d2300f80f1fe" />
