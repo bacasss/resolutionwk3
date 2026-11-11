@@ -1,4 +1,4 @@
-A simple todo list API utilising FastAPI that can utlisises GET, POST, PATCH and DELETE.
+<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/4eacf9f5-9631-4d46-9ffc-a090e0e7dfc9" />A simple todo list API utilising FastAPI that can utlisises GET, POST, PATCH and DELETE.
 each task has an ID, a name, a completion status and a priority(set to medium by default)
 
 Features:
@@ -23,8 +23,13 @@ delete all completed tasks: /tasks/cleardone
 
 ALL these were tested on the FastAPI Swagger UI
 
-**start with todo-api
-if that doesnt work, try python -m resolution_week3_bacasss.main (worked for me in a test folder)
+TO RUN:
+go to https://resolutionwk3.bacasss.hackclub.app/docs
+
+
+TestPyPi link: https://test.pypi.org/project/resolution-week3-bacasss/0.0.1/
+
+
 
 FastAPI Swagger UI showing featuresssss:
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/3667bfd7-9ccb-4692-ba4a-be8da9068c2f" />
