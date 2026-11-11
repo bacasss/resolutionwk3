@@ -1,4 +1,4 @@
-<img width="1917" height="1198" alt="image" src="https://github.com/user-attachments/assets/4eacf9f5-9631-4d46-9ffc-a090e0e7dfc9" />A simple todo list API utilising FastAPI that can utlisises GET, POST, PATCH and DELETE.
+A simple todo list API utilising FastAPI that can utlisises GET, POST, PATCH and DELETE.
 each task has an ID, a name, a completion status and a priority(set to medium by default)
 
 Features:
